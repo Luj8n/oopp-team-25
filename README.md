@@ -54,6 +54,8 @@ To test everything the Gitlab pipeline does:
 ./gradlew bootrun --args='--seed'
 ```
 
+Note: the `config.properties` has to be unchanged (codes should be equal to `MLzTfy2P,fDabK7JT,kHUI38hj`).
+
 - Run all checks and tests
 
 ```
